@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/Colorsublime-Themes/AnarchistEighties.tmTheme",
+	"font_face": "Inconsolata",
+	"font_size": 19,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"theme": "Material-Theme.sublime-theme"
+}

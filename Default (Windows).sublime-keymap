@@ -1,0 +1,3 @@
+[
+	{"keys": ["shift+space"], "command": "run_macro_file", "args": {"file": "Packages/User/new-curly-line.sublime-macro"}},
+]

@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPick",
+		"Colorsublime",
+		"CSS Snippets",
+		"Emmet",
+		"FuzzyFilePath",
+		"HTMLBeautify",
+		"InstaGoogling",
+		"Material Theme",
+		"Materialize",
+		"Package Control",
+		"PHP-Twig",
+		"SCSS",
+		"SCSS Snippets",
+		"SideBarEnhancements",
+		"SidebarSeparator"
+	]
+}
